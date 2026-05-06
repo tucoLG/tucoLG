@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Luís Guilherme GArcia Fogaça
+# 👨🏻‍💻 Luís Guilherme Garcia Fogaça
 
 > 💻 **Estudante em Desenvolvimento Back-end**
 
