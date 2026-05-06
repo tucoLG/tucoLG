@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Luan Hygor Pereira
+# 👨🏻‍💻 Luís Guilherme GArcia Fogaça
 
 > 💻 **Estudante em Desenvolvimento Back-end**
 
-Olá! Me chamo **Luís Guilherme Garcia Fogaça**, tenho **18 anos** e sou estudante do **3º ano do Ensino Médio em Informática para Internet (MTEC)** e to no **2º Módulo em Desenvolvimento de Sistemas** na **ETEC Prof. Armando José Farinazzo**, em Fernandópolis-SP.
+Olá! Me chamo **Luís Guilherme Garcia Fogaça**, tenho **18 anos** e sou estudante do **2º Módulo em Desenvolvimento de Sistemas** na **ETEC Prof. Armando José Farinazzo**, em Fernandópolis-SP.
 
 🎯 Meu objetivo é crescer profissionalmente e evoluir cada vez mais na área de **Tecnologia da Informação**, buscando aprendizado contínuo e novos desafios.
 
