@@ -11,7 +11,7 @@ Olá! Me chamo **Luís Guilherme Garcia Fogaça**, tenho **18 anos** e sou estud
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.instagram.com/luiisguilhermee_/" target="_blank">
+  <a href="https://www.instagram.com/luiisguilherme_/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Instagram-%23003A8F.svg?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
