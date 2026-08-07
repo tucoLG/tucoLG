@@ -2,7 +2,7 @@
 
 > 💻 **Estudante em Desenvolvimento Back-end**
 
-Olá! Me chamo **Luís Guilherme Garcia Fogaça**, tenho **18 anos** e sou estudante do **2º Módulo em Desenvolvimento de Sistemas** na **ETEC Prof. Armando José Farinazzo**, em Fernandópolis-SP.
+Olá! Me chamo **Luís Guilherme Garcia Fogaça**, tenho **18 anos** e sou estudante do **3º Módulo em Desenvolvimento de Sistemas** na **ETEC Prof. Armando José Farinazzo**, em Fernandópolis-SP.
 
 🎯 Meu objetivo é crescer profissionalmente e evoluir cada vez mais na área de **Tecnologia da Informação**, buscando aprendizado contínuo e novos desafios.
 
